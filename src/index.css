@@ -1,0 +1,85 @@
+html {
+  font-size: 62.5%;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: aliceblue;
+  -webkit-font-smoothing: antialiased;
+  background: #000;
+  display: block;
+  overflow: hidden;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: #3f3f40;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #3f3f40;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #3f3f40;
+}
+
+
+
+
+.container2{
+ position: relative;
+  margin-top: 400px;
+  margin-left: 350px;
+}
+.login{
+  padding: 10px 30px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  background: rgb(0, 98, 255);
+  color: aliceblue;
+  outline: none;
+  border: 1px solid rgb(0, 98, 255);
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: 0.5s ease-out;
+  border-radius: 10px;
+}
+.login:hover{
+    background: rgba(0, 232, 0, 0.929);
+    transition: 0.5s ease-in;
+    border: 1px solid rgba(0, 232, 0, 0.929);
+}
+@media (max-width:1049px){
+  .container2{
+    display: flex;
+    justify-content: center;
+     margin-left: 0;
+     margin-top: 250px;
+   }
+}
+@media (max-width:578px){
+  .container2{
+    display: flex;
+    justify-content: center;
+     margin-left: 0;
+     margin-top: 250px;
+   }
+}
+@media  screen and (max-width: 1200px) {
+  body {
+    overflow: visible;
+  }
+}

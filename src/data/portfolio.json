@@ -1,0 +1,64 @@
+{
+    "portfolio": [
+        {
+            "cover": "/projects/work1.jpg",
+            "title": "Art Design Blog",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://kaleidoscopic-youtiao-a95853.netlify.app/"
+        },
+        {
+            "cover": "/projects/work4.jpg",
+            "title": "Enjoy Video",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://steady-alpaca-643320.netlify.app/"
+        },
+        {
+            "cover": "/projects/work3.jpg",
+            "title": "SocialBook",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://inquisitive-zuccutto-0d10cc.netlify.app/"
+        },
+        {
+            "cover": "/projects/work1.jpg",
+            "title": "Paint Clone",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://roaring-mandazi-23bd7b.netlify.app/"
+        },
+        {
+            "cover": "/projects/work6.jpg",
+            "title": "Amazon Clone",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://celebrated-lamington-1a0efd.netlify.app/"
+        }, 
+        {
+            "cover": "/projects/work3.jpg",
+            "title": "Personal Blog",
+            "description": "HTML, CSS, Booststrap",
+            "url": "https://lucky-fox-a75de7.netlify.app/"
+        },   
+        {
+            "cover": "/projects/work10.jpg",
+            "title": "Rock Paper Scissors",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://jazzy-gnome-d8cdfc.netlify.app/"
+        },   
+        {
+            "cover": "/projects/work10.jpg",
+            "title": "Whac-a-Mole",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://roaring-narwhal-dffd75.netlify.app/"
+        },
+        {
+            "cover": "/projects/work10.jpg",
+            "title": "Memory Game",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://storied-biscotti-3acc93.netlify.app/"
+        },
+        {
+            "cover": "/projects/work11.jpg",
+            "title": "Dog Training Guide",
+            "description": "HTML, CSS, Bootstrap",
+            "url": "https://wonderful-sunflower-3176e3.netlify.app/"
+        }
+    ]
+}
